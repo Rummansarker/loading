@@ -1,0 +1,19 @@
+.loading-control {
+    text-align: center;
+    display: none;
+}
+
+.dot-button{
+    text-align: center;
+}
+
+.dot-button #wait {
+    margin-top: -50px;
+    margin-left: 340px;
+    display: flex;
+    flex-direction: row;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+}
